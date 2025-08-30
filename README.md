@@ -2,6 +2,10 @@
 
 This repository contains my homework assignments for the courses I have taken at Seoul National University (SNU) in Spring 2025.
 
+Noted in the README are the course homeworks and their scores.
+
+Be sure to only reference this code and not copy paste it.
+
 ## 2025-1 Computer Vision (001)
 M1522.00100
 ### HW#1
@@ -21,6 +25,7 @@ M1522.00100
 50/100
 
 ## 2025-1 3D Computer Vision (001)
+M1522.007100
 ### HW0
 18 / 20
 ### HW1
